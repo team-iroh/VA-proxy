@@ -18,8 +18,10 @@
   },
   "homepage": "https://github.com/team-iroh/VA-proxy#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.4",
     "nodemon": "^2.0.4"
   }
 }
